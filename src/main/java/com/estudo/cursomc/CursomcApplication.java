@@ -4,6 +4,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import javassist.compiler.ast.IntConst;
+
 @SpringBootApplication
 public class CursomcApplication implements CommandLineRunner{
 
